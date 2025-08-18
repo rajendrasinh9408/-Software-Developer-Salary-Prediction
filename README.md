@@ -31,11 +31,3 @@ with an average prediction error of about **$20k** in salary estimation.
 - Enables **real-time insights** into salary trends across demographics, education, and professional attributes.  
 
 ---
-
-## 📂 Project Structure
-.
-├── data/ # Dataset (Stack Overflow Developer Survey 2024)
-├── notebooks/ # Jupyter notebooks for exploration & model training
-├── models/ # Saved model artifacts (.pkl files)
-├── app/ # Streamlit application
-└── README.md # Project documentation
